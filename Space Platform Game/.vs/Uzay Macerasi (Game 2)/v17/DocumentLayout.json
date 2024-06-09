@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\tamekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tamekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\sliderkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sliderkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\secenekler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\secenekler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\puankontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puankontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\puan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\platformpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\oyunkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oyunkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\oyuncuhareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oyuncuhareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\olumculplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\olumculplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\muzikkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\muzikkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\menukontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menukontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\kamerahareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kamerahareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\joystickbuton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\joystickbuton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\gezegenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gezegenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\ekranhesaplayicisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ekranhesaplayicisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\ekrandatut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ekrandatut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\ayarlarkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ayarlarkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\arkaplanhareketkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arkaplanhareketkontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\altinalgilayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\altinalgilayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|c:\\users\\kerem\\desktop\\uzay macerasi (game 2)\\uzay macerasi (game 2)\\assets\\scripts\\altin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C52BC6D-DFD7-5E74-031E-D018C3EFEBD1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\altin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TamEkran.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\TamEkran.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TamEkran.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\TamEkran.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TamEkran.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:45:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\SliderKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SliderKontrol.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\SliderKontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SliderKontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:44:36.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Secenekler.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Secenekler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Secenekler.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Secenekler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Secenekler.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAQwH4AAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:41:35.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PuanKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\PuanKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PuanKontrol.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\PuanKontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PuanKontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:40:22.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Puan.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Puan.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puan.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Puan.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puan.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCYAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:38:12.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlatformPool.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\PlatformPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformPool.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\PlatformPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformPool.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:35:48.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Platform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Platform.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Platform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Platform.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowFEAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:33:26.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OyunKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\OyunKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OyunKontrol.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\OyunKontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OyunKontrol.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:31:41.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OyuncuHareket.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\OyuncuHareket.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OyuncuHareket.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\OyuncuHareket.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OyuncuHareket.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAIwIgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:25:30.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OlumculPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\OlumculPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OlumculPlatform.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\OlumculPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OlumculPlatform.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:24:20.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MuzikKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\MuzikKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MuzikKontrol.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\MuzikKontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MuzikKontrol.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:23:21.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\MenuKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuKontrol.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\MenuKontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuKontrol.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA4wDkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:22:01.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KameraHareket.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\KameraHareket.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KameraHareket.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\KameraHareket.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KameraHareket.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDUAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:21:31.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JoystickButon.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\JoystickButon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JoystickButon.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\JoystickButon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JoystickButon.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:20:40.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gezegenler.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Gezegenler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gezegenler.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Gezegenler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gezegenler.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowFUAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:18:06.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EkranHesaplayicisi.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\EkranHesaplayicisi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EkranHesaplayicisi.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\EkranHesaplayicisi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EkranHesaplayicisi.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:17:30.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EkrandaTut.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\EkrandaTut.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EkrandaTut.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\EkrandaTut.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EkrandaTut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:17:09.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AyarlarKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\AyarlarKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AyarlarKontrol.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\AyarlarKontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AyarlarKontrol.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwC4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:15:42.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArkaPlanHareketKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\ArkaPlanHareketKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArkaPlanHareketKontrol.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\ArkaPlanHareketKontrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArkaPlanHareketKontrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:14:41.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AltinAlgilayici.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\AltinAlgilayici.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AltinAlgilayici.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\AltinAlgilayici.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AltinAlgilayici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:13:12.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Altin.cs",
+              "DocumentMoniker": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Altin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Altin.cs",
+              "ToolTip": "C:\\Users\\Kerem\\Desktop\\Uzay Macerasi (Game 2)\\Uzay Macerasi (Game 2)\\Assets\\Scripts\\Altin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Altin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:13:08.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
